@@ -6,6 +6,5 @@ Validation is included before submission.
 
 ## Demo Video
 
-<video src="video/Homework2.mp4" controls="controls" muted="muted" style="max-height:640px; min-height: 200px; width: 100%;">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Sabbaa4/Homework2/raw/main/video/Homework2.mp4
+
